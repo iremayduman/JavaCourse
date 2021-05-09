@@ -2,6 +2,6 @@
 
 Java/React 1<br/>
 KODLAMA.İO SİTESİNDEKİ <br/>
-1.Öğrencilerin ekleme,silme ,güncelleme işlemleri <br/>
-2.Kursların ekleme,silme ,güncelleme işlemleri <br/>
-3.Eğitmenlerin ekleme,silme ,güncelleme işlemleri
+1.Öğrencilerin eklenme,silinme ve güncelleme işlemleri <br/>
+2.Kursların eklenme,silinme ve güncelleme işlemleri <br/>
+3.Eğitmenlerin eklenme,silinme ve güncelleme işlemleri
